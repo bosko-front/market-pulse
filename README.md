@@ -116,7 +116,7 @@ Environment variables (examples):
 
 ```bash
 # Finnhub (preferred for stocks)
-EXPO_PUBLIC_FINNHUB_API_KEY=your_finnhub_api_key
+EXPO_PUBLIC_FINNHUB_API_KEY=xxx-xxx
 
 # Optional: If using other sources, document keys here
 # EXPO_PUBLIC_SOME_API_KEY=...
